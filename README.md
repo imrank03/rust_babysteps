@@ -1,7 +1,7 @@
 # rustgrow
 Small exercises to get you up to speed on the 🦀 Rust programming language.
 
-#Introduction
+## Introduction
 - Rust developed by Graydon Hoare. Mozilla Labs later acquired the programme.
 - [Rust](https://www.rust-lang.org) is a low-level statically-typed multi-paradigm programming language that’s focused on safety and performance.
 - Rust solves problems that C/C++ has been struggling with for a long time, such as memory errors and building concurrent programs.
@@ -12,7 +12,7 @@ Rust focuses on three goals:
 - Speed
 - Concurrency
 
-#Getting started
+## Getting started
 Steps that you need to follow to setup your development environment in order to start working with Rust:
 
 - To install Rust visit the official [website](https://www.rust-lang.org/tools/install) and then download the latest version of Rust.
