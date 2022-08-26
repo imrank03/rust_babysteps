@@ -32,8 +32,8 @@ To initialize a variable, use the `=` operator. A variable can be initialized 
 </p>
 
 To reassign a variable, write `let` followed by the `mut` keyword and the variable name.
-example:
 
+example:
 ```zsh
 let mut x = 5;
 x = 6;
