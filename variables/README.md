@@ -49,6 +49,7 @@ It all depends on where this variable is being declared. If it is declared insid
 There are two types of variables in terms of scope.
 
 **Local Variable**
+
 A variable that is within a block of code, `{ }`, that cannot be accessed outside that block is a local variable. After the closing curly brace, `}` , the variable is freed and memory for the variable is deallocated.
 
 **Global Variable**
