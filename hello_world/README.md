@@ -38,15 +38,15 @@ To run the program, we need to compile it.
 ```
 - `cargo build` is the command that will compile the program.
 To run the program, we need to run the `hello_world` binary.
+- `Hello, world!` is the text that will be printed to the console.
 ```zsh
 ❯ cargo run
      Running `target/debug/hello_world`
      Hello, world!
 ```
 - `cargo run` will run the program and print the output to the console.
-- `Hello, world!` is the text that will be printed to the console.
 - `target/debug` is the directory where the binary will be created.
 - `target/debug/hello_world` is the name of the binary that will be created when the program or project is compiled.
 - `Cargo.lock` is the file that contains all the information about the dependencies of the program or project.
 
-When a program written in Rust, its “main” function is executed. If there is no “main” function, then it isn’t a complete program; it may be a library, though.
+When a program written in Rust, its `main` function is executed. If there is no `main` function, then it isn’t a complete program; it may be a library, though.
