@@ -10,7 +10,7 @@ Rust is a **statically typed** language, meaning, it must know the type of all
 
 We can define a variable in rust in two different ways:
 
-**Implicit Definition**
+### Implicit Definition
 
 Unlike other languages like C++ and Java, Rust can infer the type from the type of value assigned to a variable at compile time.
 
@@ -22,7 +22,7 @@ The general syntax is:
 <img src="https://github.com/imrank03/rustgrow_images/blob/main/data_types/impli_syn.svg?raw=true">
 </p>
 
-## **Explicit Definition**
+### Explicit Definition
 
 Explicitly tells the compiler about the type of variable being declared.
 
