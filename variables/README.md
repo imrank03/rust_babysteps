@@ -7,7 +7,7 @@ Rust cares a great deal about what variables are modifiable. Values fall into tw
 - **immutable** the compiler will only allow the variable to be read from.
 
 <p align="center">
-<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable.svg?raw=true">
+<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable/variable.svg?raw=true">
 </p>
 
 To create a variable, use the `let` binding followed by the variable name.
@@ -16,7 +16,7 @@ To create a variable, use the `let` binding followed by the variable name.
 >Rust refers to **declarations** as bindings as they bind a name at the time of creation. `let` is a kind of **declaration statement**.
 
 <p align="center">
-<img src="https://github.com/imrank03/rustgrow_images/blob/main/let.svg?raw=true">
+<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable/let.svg?raw=true">
 </p>
 
 > Naming Convention, you would write a variable name in a snake_case i.e.,
@@ -28,7 +28,7 @@ To create a variable, use the `let` binding followed by the variable name.
 To initialize a variable, use the `=` operator. A variable can be initialized by assigning a value to it when it is declared. The value is said to be bound to that variable.
 
 <p align="center">
-<img src="https://github.com/imrank03/rustgrow_images/blob/main/initialize.svg?raw=true">
+<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable/initialize.svg?raw=true">
 </p>
 
 To reassign a variable, write `let` followed by the `mut` keyword and the variable name.

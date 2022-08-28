@@ -14,8 +14,6 @@ We can define a variable in rust in two different ways:
 
 Unlike other languages like C++ and Java, Rust can infer the type from the type of value assigned to a variable at compile time.
 
-```zsh
-
 **Syntax**
 
 The general syntax is:
@@ -69,5 +67,5 @@ They group multiple values in one variable. Below is the list of compound types:
 - Tuple
 
 <p align="center">
-<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable.svg?raw=true">
+<img src="https://github.com/imrank03/rustgrow_images/blob/main/data_types/compound.svg?raw=true">
 </p>
