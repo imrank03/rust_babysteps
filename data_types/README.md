@@ -3,7 +3,7 @@
 Rust is a **statically typed** language, meaning, it must know the type of all variables at compile time.
 
 <p align="center">
-<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable.svg?raw=true">
+<img src="https://github.com/imrank03/rustgrow_images/blob/main/data_types/data_type.svg?raw=true">
 </p>
 
 **How to Define a Type in Rust?**
@@ -19,7 +19,7 @@ Unlike other languages like C++ and Java, Rust can infer the type from the type 
 The general syntax is:
 
 <p align="center">
-<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable.svg?raw=true">
+<img src="https://github.com/imrank03/rustgrow_images/blob/main/data_types/impli_syn.svg?raw=true">
 </p>
 
 ## **Explicit Definition**
@@ -31,7 +31,7 @@ Explicitly tells the compiler about the type of variable being declared.
 The general syntax is:
 
 <p align="center">
-<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable.svg?raw=true">
+<img src="https://github.com/imrank03/rustgrow_images/blob/main/data_types/expli_syn.svg?raw=true">
 </p>
 
 ## **Primitive Types**
@@ -41,7 +41,7 @@ Rust has a couple of types that are considered primitive. That means they are bu
 The following illustration shows the different primitive data types in Rust:
 
 <p align="center">
-<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable.svg?raw=true">
+<img src="https://github.com/imrank03/rustgrow_images/blob/main/data_types/primi.svg?raw=true">
 </p>
 
 ### Scalar Type
@@ -56,7 +56,7 @@ Below is the list of scalar types:
 - Character
 
 <p align="center">
-<img src="https://github.com/imrank03/rustgrow_images/blob/main/variable.svg?raw=true">
+<img src="https://github.com/imrank03/rustgrow_images/blob/main/data_types/scalar.svg?raw=true">
 </p>
 
 ### Compound Type
