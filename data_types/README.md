@@ -44,7 +44,7 @@ The following illustration shows the different primitive data types in Rust:
 <img src="https://github.com/imrank03/rustgrow_images/blob/main/data_types/primi.svg?raw=true">
 </p>
 
-### Scalar Type
+### [Scalar Types](Scalar.md)
 
 They store a single value.
 
@@ -59,7 +59,7 @@ Below is the list of scalar types:
 <img src="https://github.com/imrank03/rustgrow_images/blob/main/data_types/scalar.svg?raw=true">
 </p>
 
-### Compound Type
+### [Compound Type](Compound.md)
 
 They group multiple values in one variable. Below is the list of compound types:
 
