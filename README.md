@@ -20,5 +20,5 @@ Steps that you need to follow to setup your development environment in order to 
 
 The [Rust playground](https://play.rust-lang.org) allows you to experiment with Rust before you install it locally, or in any other case where you might not have the compiler available.
 
-## rustgrow exercises
+## rust_babysteps exercises
 The exercises are sorted by topic and can be found in the `directory`. For every topic there is an additional **README** file with some resources to get you started on the topic. We really recommend that you have a look at them before you start.
